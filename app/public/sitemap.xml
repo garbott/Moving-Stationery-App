@@ -5,221 +5,221 @@
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <!-- Homepage -->
   <url>
-    <loc>https://moving-stationery.local/</loc>
+    <loc>https://movingstationery.co.uk/</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- Main Pages -->
   <url>
-    <loc>https://moving-stationery.local/services</loc>
+    <loc>https://movingstationery.co.uk/services</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/products</loc>
+    <loc>https://movingstationery.co.uk/products</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/contact</loc>
+    <loc>https://movingstationery.co.uk/contact</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/oxfordshire</loc>
+    <loc>https://movingstationery.co.uk/oxfordshire</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <!-- What For Pages -->
   <url>
-    <loc>https://moving-stationery.local/what-for</loc>
+    <loc>https://movingstationery.co.uk/what-for</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/what-for/office-cupboards</loc>
+    <loc>https://movingstationery.co.uk/what-for/office-cupboards</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/what-for/workshops</loc>
+    <loc>https://movingstationery.co.uk/what-for/workshops</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/what-for/meetings</loc>
+    <loc>https://movingstationery.co.uk/what-for/meetings</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <!-- Who For Pages -->
   <url>
-    <loc>https://moving-stationery.local/who-for</loc>
+    <loc>https://movingstationery.co.uk/who-for</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/corporate-offices</loc>
+    <loc>https://movingstationery.co.uk/who/corporate-offices</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/coworking-floors</loc>
+    <loc>https://movingstationery.co.uk/who/coworking-floors</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/home-offices</loc>
+    <loc>https://movingstationery.co.uk/who/home-offices</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/events-workshops</loc>
+    <loc>https://movingstationery.co.uk/who/events-workshops</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/education-labs</loc>
+    <loc>https://movingstationery.co.uk/who/education-labs</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/agriculture</loc>
+    <loc>https://movingstationery.co.uk/who/agriculture</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/finance</loc>
+    <loc>https://movingstationery.co.uk/who/finance</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/charities</loc>
+    <loc>https://movingstationery.co.uk/who/charities</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/web-development</loc>
+    <loc>https://movingstationery.co.uk/who/web-development</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/bookkeepers</loc>
+    <loc>https://movingstationery.co.uk/who/bookkeepers</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/accountants</loc>
+    <loc>https://movingstationery.co.uk/who/accountants</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/solicitors</loc>
+    <loc>https://movingstationery.co.uk/who/solicitors</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/consultancies</loc>
+    <loc>https://movingstationery.co.uk/who/consultancies</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/marketing-pr</loc>
+    <loc>https://movingstationery.co.uk/who/marketing-pr</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/plasterers</loc>
+    <loc>https://movingstationery.co.uk/who/plasterers</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/painters</loc>
+    <loc>https://movingstationery.co.uk/who/painters</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/property-maintenance</loc>
+    <loc>https://movingstationery.co.uk/who/property-maintenance</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/electricians</loc>
+    <loc>https://movingstationery.co.uk/who/electricians</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/joiners</loc>
+    <loc>https://movingstationery.co.uk/who/joiners</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/hvac</loc>
+    <loc>https://movingstationery.co.uk/who/hvac</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/who/general-contractors</loc>
+    <loc>https://movingstationery.co.uk/who/general-contractors</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <!-- Legal & Support Pages -->
   <url>
-    <loc>https://moving-stationery.local/terms</loc>
+    <loc>https://movingstationery.co.uk/terms</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/privacy</loc>
+    <loc>https://movingstationery.co.uk/privacy</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/cookies</loc>
+    <loc>https://movingstationery.co.uk/cookies</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/refunds</loc>
+    <loc>https://movingstationery.co.uk/refunds</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://moving-stationery.local/gdpr</loc>
+    <loc>https://movingstationery.co.uk/gdpr</loc>
     <lastmod>2025-01-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
