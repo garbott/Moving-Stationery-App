@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Midiet_Serif_Medium
+font link: http://www.yoworks.com/midiet/index.html
+font author: Yamaoka Yasuhiro
+font author site: http://www.yoworks.com/
+
+
+icon designer: Jon Testa
+icon designer link: /creator/jontesta/
+        
+{"bg":"#0B345A","icon":"#22C4D6","font":"#22C4D6","slogan":"#36d8ea"}
+      
