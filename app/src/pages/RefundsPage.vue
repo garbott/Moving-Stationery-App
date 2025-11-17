@@ -105,7 +105,7 @@
         <article class="flex flex-col gap-4 bg-white border border-slate-200 rounded-2xl p-6 shadow-sm">
           <h2 class="text-2xl font-semibold m-0">Need help fast?</h2>
           <p class="text-slate-600 m-0">
-            Call +44 (0)1865 123456 between 08:00–18:00 GMT or email refunds@movingstationery.co.uk. We respond within
+            Call +44 (0)1865 689798 between 08:00–18:00 GMT or email refunds@movingstationery.co.uk. We respond within
             two working hours for priority incidents that halt operations.
           </p>
           <div class="flex flex-col gap-3">

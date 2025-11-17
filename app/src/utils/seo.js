@@ -339,7 +339,7 @@ function setStructuredData(route, meta, geo, pageUrl) {
     name: 'Moving Stationery',
     image: `${window.location.origin}/social-cover.png`,
     url: pageUrl,
-    telephone: '+44 1865 123456',
+    telephone: '+44 1865 689798',
     address: {
       '@type': 'PostalAddress',
       streetAddress: '13a Bankside',
