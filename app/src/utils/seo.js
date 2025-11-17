@@ -75,11 +75,17 @@ const routeMeta = {
       'Documentation on lawful basis, retention schedules, and sub-processor controls for Moving Stationery’s GDPR compliance.',
     keywords: ['stationery GDPR', 'GDPR Oxfordshire services'],
   }),
-  oxfordshire: buildMeta({
-    title: 'Where We Operate in Oxfordshire | Moving Stationery',
+  where: buildMeta({
+    title: 'Where We Operate | Moving Stationery',
     description:
-      'View Moving Stationery’s coverage map, depot location, and service cadence across Oxfordshire towns and campuses.',
-    keywords: ['Oxfordshire service area', 'Kidlington stationery depot'],
+      'Discover where Moving Stationery delivers mobile stationery services across Oxfordshire and the Thames Valley.',
+    keywords: ['Moving Stationery coverage', 'service areas', 'Oxfordshire delivery'],
+  }),
+  oxfordshire: buildMeta({
+    title: 'Oxfordshire Coverage | Moving Stationery',
+    description:
+      'Complete coverage across Oxfordshire including Oxford, Banbury, Bicester, Abingdon, Witney, and hundreds of villages throughout the county.',
+    keywords: ['Oxfordshire service area', 'Kidlington stationery depot', 'Oxfordshire villages'],
   }),
   'what-for': buildMeta({
     title: 'Stationery Use Cases | Moving Stationery',

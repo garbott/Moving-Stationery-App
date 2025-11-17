@@ -77,7 +77,7 @@ const selectedEmergency = ref(emergencyOptions[0].cta)
         <div class="flex flex-col gap-6">
           <p class="uppercase tracking-[0.3em] text-xs text-white/60">Moving Stationery · Oxfordshire</p>
           <h1 class="text-4xl md:text-5xl lg:text-6xl font-semibold leading-tight">
-            Restocking teams before the cupboards run dry.
+            Restocking before the cupboards run dry.
           </h1>
           <p class="text-lg text-white/80 max-w-2xl">
             We operate a network of mobile supply suites, staging curated kits for corporate HQs, co-working floors,

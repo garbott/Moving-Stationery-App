@@ -27,7 +27,7 @@ import logoFooter from './assets/logo/vector/default-monochrome-white.svg'
             Products
           </RouterLink>
           <RouterLink
-            to="/oxfordshire"
+            to="/where"
             class="text-slate-50/85 font-semibold px-3.5 py-2.5 rounded-full transition-colors hover:bg-brand-cyan/15 hover:text-white"
             active-class="bg-brand-cyan/15 text-white"
           >
@@ -57,20 +57,31 @@ import logoFooter from './assets/logo/vector/default-monochrome-white.svg'
     <footer class="bg-brand-dark text-slate-50/85 w-full px-4 md:px-8 lg:px-16 py-10">
       <div class="max-w-screen-xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8 mb-8">
-          <div class="flex flex-col gap-3 items-start">
+          <div class="flex flex-col gap-3 items-start lg:col-span-2">
             <img :src="logoFooter" alt="Moving Stationery wordmark" class="h-20 w-auto" />
             <p class="text-sm">Mobile stationery vans supplying workplaces and homes across Oxfordshire.</p>
           </div>
-          <div class="flex flex-col gap-1.5">
+          <div class="flex flex-col gap-1.5 min-w-0">
             <h4 class="text-sm uppercase tracking-wide text-slate-50/70 mb-2">Explore</h4>
             <RouterLink to="/" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Home</RouterLink>
             <RouterLink to="/services" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Services</RouterLink>
           <RouterLink to="/products" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Products</RouterLink>
-            <RouterLink to="/oxfordshire" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">
+            <h4 class="text-sm uppercase tracking-wide text-slate-50/70 mb-2 mt-4">Compliance</h4>
+            <RouterLink to="/terms" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Terms</RouterLink>
+            <RouterLink to="/gdpr" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">GDPR</RouterLink>
+          </div>
+          <div class="flex flex-col gap-1.5 min-w-0">
+            <h4 class="text-sm uppercase tracking-wide text-slate-50/70 mb-2">Where</h4>
+            <RouterLink to="/where/oxfordshire" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">
               Oxfordshire
             </RouterLink>
+            <h4 class="text-sm uppercase tracking-wide text-slate-50/70 mb-2 mt-4">Support</h4>
+            <RouterLink to="/contact" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Contact</RouterLink>
+            <RouterLink to="/cookies" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Cookies</RouterLink>
+            <RouterLink to="/privacy" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Privacy</RouterLink>
+            <RouterLink to="/refunds" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Refunds</RouterLink>
           </div>
-          <div class="flex flex-col gap-2">
+          <div class="flex flex-col gap-2 min-w-0">
             <h4 class="text-sm uppercase tracking-wide text-slate-50/70 mb-2">What for</h4>
             <div class="flex flex-col gap-0.5">
               <RouterLink
@@ -106,7 +117,7 @@ import logoFooter from './assets/logo/vector/default-monochrome-white.svg'
               View more
             </RouterLink>
           </div>
-          <div class="flex flex-col gap-2">
+          <div class="flex flex-col gap-2 min-w-0">
             <h4 class="text-sm uppercase tracking-wide text-slate-50/70 mb-2">Who for</h4>
             <div class="flex flex-col gap-0.5">
               <RouterLink
@@ -147,18 +158,6 @@ import logoFooter from './assets/logo/vector/default-monochrome-white.svg'
             >
               View more
             </RouterLink>
-          </div>
-          <div class="flex flex-col gap-1.5">
-            <h4 class="text-sm uppercase tracking-wide text-slate-50/70 mb-2">Support</h4>
-            <RouterLink to="/contact" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Contact</RouterLink>
-            <RouterLink to="/cookies" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Cookies</RouterLink>
-            <RouterLink to="/privacy" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Privacy</RouterLink>
-            <RouterLink to="/refunds" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Refunds</RouterLink>
-          </div>
-          <div class="flex flex-col gap-1.5">
-            <h4 class="text-sm uppercase tracking-wide text-slate-50/70 mb-2">Compliance</h4>
-            <RouterLink to="/terms" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">Terms</RouterLink>
-            <RouterLink to="/gdpr" class="text-slate-50/85 font-medium hover:text-brand-cyan-light transition-colors">GDPR</RouterLink>
           </div>
         </div>
         <div class="pt-6 border-t border-slate-700 text-xs text-slate-400 text-center leading-relaxed">

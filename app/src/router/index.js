@@ -178,7 +178,12 @@ const routes = [
     component: () => import('../pages/MeetingsPage.vue'),
   },
   {
-    path: '/oxfordshire',
+    path: '/where',
+    name: 'where',
+    component: () => import('../pages/WherePage.vue'),
+  },
+  {
+    path: '/where/oxfordshire',
     name: 'oxfordshire',
     component: () => import('../pages/OxfordshirePage.vue'),
   },
