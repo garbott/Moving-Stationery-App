@@ -2,7 +2,15 @@
 const coverageByLetter = [
   {
     letter: 'B',
-    villages: ['Begbroke'],
+    villages: ['Begbroke', 'Botley'],
+  },
+  {
+    letter: 'C',
+    villages: ['Cowley'],
+  },
+  {
+    letter: 'H',
+    villages: ['Headington'],
   },
   {
     letter: 'I',
