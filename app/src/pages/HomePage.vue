@@ -67,6 +67,11 @@ const operations = [
 const trustedOrgs = ['Thames Labs', 'OxGrow', 'Paperhaus', 'NeoCo Working']
 
 const selectedEmergency = ref(emergencyOptions[0].cta)
+
+const waitingListForm = ref({
+  email: '',
+  postcode: '',
+})
 </script>
 
 <template>
@@ -219,6 +224,44 @@ const selectedEmergency = ref(emergencyOptions[0].cta)
             </div>
           </li>
         </ol>
+      </div>
+    </section>
+
+    <section class="w-full bg-white border-t border-slate-200 py-12">
+      <div class="w-full px-6 sm:px-10 lg:px-16">
+        <div class="flex flex-col gap-4 mb-6">
+          <h2 class="text-2xl md:text-3xl font-semibold m-0">Join the waiting list</h2>
+          <p class="text-slate-600 m-0">
+            Be the first to know when we expand to your area. Enter your email and postcode to join our waiting list.
+          </p>
+        </div>
+        <form
+          @submit.prevent="() => {}"
+          class="w-full flex flex-col sm:flex-row gap-4"
+        >
+          <input
+            v-model="waitingListForm.email"
+            type="email"
+            name="email"
+            placeholder="Email address"
+            required
+            class="flex-1 rounded-lg border border-slate-300 px-4 py-3 text-base font-normal bg-white focus:outline-none focus:ring-2 focus:ring-teal-600 focus:border-transparent"
+          />
+          <input
+            v-model="waitingListForm.postcode"
+            type="text"
+            name="postcode"
+            placeholder="Postcode"
+            required
+            class="flex-1 rounded-lg border border-slate-300 px-4 py-3 text-base font-normal bg-white focus:outline-none focus:ring-2 focus:ring-teal-600 focus:border-transparent"
+          />
+          <button
+            type="submit"
+            class="px-6 py-3 rounded-lg bg-teal-600 text-white font-semibold hover:bg-teal-700 transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-600 whitespace-nowrap"
+          >
+            Join waiting list
+          </button>
+        </form>
       </div>
     </section>
   </div>
